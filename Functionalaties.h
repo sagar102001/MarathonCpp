@@ -6,7 +6,7 @@
 #include <future>
 
 // function find the addition of two numbers
-int AdditionOftwoNumbers();
+ 
 
 // function find the sum of N numbers in vector
 void SumOfnumbers(std::vector<int> &res, int N);
