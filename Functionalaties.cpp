@@ -41,7 +41,7 @@ void SumOfnumbers(std::vector<int> &res, int N)
         {
             break;
         }
-        sum += i;
+        
     }
     std::cout << "Sum of number is: " << sum << std::endl;
 }
