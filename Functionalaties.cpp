@@ -34,7 +34,7 @@ void SumOfnumbers(std::vector<int> &res, int N)
     {
         throw std::runtime_error("Data is Empty!");
     }
-    int sum = 0;
+     
     for (int i : res)
     {
         if (N == 0)
